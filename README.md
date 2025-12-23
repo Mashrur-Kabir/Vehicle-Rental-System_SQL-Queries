@@ -36,8 +36,9 @@ The `NOT EXISTS` condition ensures that only vehicles without any bookings are r
 - `WHERE`
 
 This query filters the **vehicles** table using the `WHERE` clause that checks two things:
--The vehicle type is `car`
--The vehicle status is `available`
+
+(1). The vehicle type is `car`
+(2). The vehicle status is `available`
 
 `and` operator ensures only vehicles that satisfy both conditions are displayed.
 
