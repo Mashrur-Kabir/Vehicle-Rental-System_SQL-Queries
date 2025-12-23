@@ -1,6 +1,0 @@
-GitHub Repo: 
-https://github.com/Mashrur-Kabir/Vehicle-Rental-System_SQL-Queries 
-
-ERD Link: https://lucid.app/lucidchart/a30caa83-0ac5-42cb-8907-0314657ded6d/edit?viewport_loc=80%2C22%2C2842%2C1256%2C0_0&invitationId=inv_fef68301-a8b4-4e51-b657-55ab0ae25641
-
-Viva Video Link: https://drive.google.com/file/d/1xotboSRRsgpDvooXDX2wYXX1Yq9HqtrP/view?usp=sharing 

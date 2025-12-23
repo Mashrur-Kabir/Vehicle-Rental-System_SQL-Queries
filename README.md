@@ -1,5 +1,24 @@
 ---
 # Vehicle Rental System: SQL Queries Explanation
+
+This project implements a simple **Vehicle Rental System** using SQL.
+It includes database creation, data insertion, and multiple queries based on given requirements.
+---
+
+## Database Schema
+
+The database contains three tables:
+
+- **users** – stores customer and admin information
+- **vehicles** – stores vehicle details and availability
+- **bookings** – stores rental records linking users and vehicles
+
+Relationships:
+
+- One user can have many bookings
+- One vehicle can have many bookings
+- Each booking belongs to one user and one vehicle
+
 ---
 
 ---
